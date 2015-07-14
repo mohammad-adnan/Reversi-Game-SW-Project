@@ -1,5 +1,6 @@
-# Reversi-Game-SW-Project
 
+#To download demo click [here](https://github.com/mohammad-adnan/Reversi-Game-SW-Project/releases/download/demo/demo.avi)
+#Project Description
 Reversi is a strategy board game for two players, played on an 8×8 unchecked board. There are 64 identical game pieces 
 called disks (often spelled "discs"), which are light on one side and dark on the other. Players take turns placing 
 discs on the board with their assigned color facing up. During a play, any discs of the opponent's color that are in a 
