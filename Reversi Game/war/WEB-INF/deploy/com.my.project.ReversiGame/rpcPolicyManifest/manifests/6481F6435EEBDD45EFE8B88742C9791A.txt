@@ -1,0 +1,2 @@
+serviceClass: com.my.project.client.service.ReversiService
+path: BE68319CF068D44589245D6F15001BE3.gwt.rpc

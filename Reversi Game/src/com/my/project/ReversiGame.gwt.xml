@@ -1,0 +1,14 @@
+<module>
+	<inherits name="com.google.gwt.user.User"/>
+	<!--<inherits name="com.google.gwt.user.theme.standard.Standard"/>-->
+	<!-- <inherits name='com.google.gwt.user.theme.standard.Standard'/> -->
+  <inherits name='com.google.gwt.user.theme.chrome.Chrome'/>
+  <!-- <inherits name='com.google.gwt.user.theme.dark.Dark'/>     -->
+	<entry-point class="com.my.project.client.ReversiGame"/>
+	
+	<servlet class="com.my.project.server.ReversiImplementation" path="/Reversi"/>
+	
+	<!-- Specify the paths for translatable code                    -->
+  <source path='client'/>
+  <source path='message'/>
+</module>

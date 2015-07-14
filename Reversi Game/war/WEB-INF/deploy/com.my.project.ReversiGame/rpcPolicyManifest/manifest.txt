@@ -1,0 +1,2 @@
+# Module com.my.project.ReversiGame
+# RPC service class, partial path of RPC policy file
